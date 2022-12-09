@@ -9,6 +9,7 @@ class Spacecraft {
     // 초기화 코드 작성
   }
 
+  // named constructor
   Spacecraft.unlaunched(String name) : this(name, null);
 
   // 메서드
